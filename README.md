@@ -1,2 +1,2 @@
-# training_peropd
+# training_peroid
 this is training time
